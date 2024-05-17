@@ -1,5 +1,6 @@
 # Start:
-## cd appgr8-gallery
+## npm install
+## cd ./frontend
 ## npm install
 ## create a data in mongoDB Compass - something like this :
 ### {
